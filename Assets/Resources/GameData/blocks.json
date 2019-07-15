@@ -1,0 +1,15 @@
+{
+	"blocks":
+	[
+		{
+			"systemName": "ph_damage",
+			"towerParameter": "ph_damage",
+			"value": 0.01
+		},
+		{
+			"systemName": "instant_death",
+			"effect": "instant_death",
+			"value": 0.01
+		}
+	]
+}

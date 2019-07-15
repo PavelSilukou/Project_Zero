@@ -1,0 +1,12 @@
+{
+	"towers":
+	[
+		{
+			"systemName": "gun",
+			"damage": 10,
+			"reloadTime": 1.0,
+			"critical": 0.05,
+			"killPoints": 1.0
+		}
+	]
+}
